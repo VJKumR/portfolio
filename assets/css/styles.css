@@ -377,8 +377,8 @@ h4 {
 
 .work__desc {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 50%;
+  left: 50%;
   padding-left: 8px;
   cursor: pointer;
   opacity: 0;
